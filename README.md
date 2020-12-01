@@ -11,7 +11,7 @@
   <img src="https://i.pinimg.com/originals/d9/d9/7d/d9d97d48264770f85d35c208f279152c.png" width="29" />
 </a>
 
-</a>
+<a href="https://www.instagram.com/mathsszagob/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/200px-Instagram_logo_2016.svg.png" width="29" />
 </a>
 
