@@ -3,7 +3,7 @@
 <i>Development Fullstack<i>
 
 ### Contacts
-<a href="https://www.linkedin.com/in/matheus-zago-bestana-b3b07b160/">
+<a href="https://www.linkedin.com/in/matheusbestana/">
   <img src="https://img.flaticon.com/icons/png/512/61/61109.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" width="50" />
 </a>
 
