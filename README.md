@@ -42,7 +42,7 @@
 ### About me:
 
 - 🔭 I am currently working with Node JS, React and React Native;
-- 🌱 At the moment, I'm learning TypeScript and Mongodb Database;
+- 🌱 At the moment, I'm learning TypeScript and PrismaORM Database;
 - 👯 I'm looking to collaborate and help in the community to further increase my knowledge;
 - 💬 Ask me what your question, I'll be happy to help;
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-zago-bestana-b3b07b160/
